@@ -1,0 +1,11 @@
+Model Information:
+* title:	Indian 3d boy
+* source:	https://sketchfab.com/3d-models/indian-3d-boy-dfc451b66a8045a98dcc8297ef3282b1
+* author:	rohitkashyap88593 (https://sketchfab.com/rohitkashyap88593)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Indian 3d boy" (https://sketchfab.com/3d-models/indian-3d-boy-dfc451b66a8045a98dcc8297ef3282b1) by rohitkashyap88593 (https://sketchfab.com/rohitkashyap88593) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
