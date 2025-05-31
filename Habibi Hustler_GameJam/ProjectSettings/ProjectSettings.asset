@@ -910,8 +910,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Habibi Hustler_GameJam
-  metroPackageVersion: 
+  metroPackageName: HabibiHustlerGameJam
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -919,7 +919,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Habibi Hustler_GameJam
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Habibi Hustler_GameJam
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
